@@ -1,0 +1,101 @@
+ body {
+     margin: 0%;
+     padding: 0%;
+     background-color: rgb(192, 194, 186) !important;
+ }
+
+ .images {
+     width: 20%;
+ }
+
+ #logo-size {
+     width: 80%;
+     height: auto;
+ }
+
+ h6 {
+     color: rgb(22, 22, 22);
+     text-align: center;
+ }
+
+ .row {
+     text-align: center;
+ }
+
+ #game-image {
+     width: 60%;
+     height: 70%;
+ }
+
+ .Button-page {
+     color: rgb(155, 155, 161);
+     text-decoration: none;
+     font-weight: bold;
+ }
+
+ main {
+     width: 50%;
+ }
+
+ .form-text {
+     color: grey !important;
+ }
+
+ .form-label {
+     color: aliceblue;
+ }
+
+ #About-us-Image img {
+     width: 100%;
+     height: auto;
+     padding: 10%;
+ }
+
+ aside {
+     width: 50%;
+     margin-top: 9%;
+
+ }
+
+ .form-check-input {
+     float: none !important;
+ }
+
+ .main2 {
+     width: 50%;
+ }
+
+ .input-group-append {
+     text-align: center;
+ }
+
+ .col-md-8 {
+     width: 30% !important;
+ }
+
+
+ .textcontrol {
+     height: 1% !important;
+ }
+
+ Address {
+     margin-bottom: 2.5% !important;
+     color: aliceblue;
+ }
+
+ .btn {
+     color: black !important;
+ }
+
+ a {
+     text-decoration: none !important;
+ }
+
+ span {
+     color: black;
+ }
+
+ .text-muted2 {
+     font-size: 1.2rem !important;
+     color: rgb(23, 22, 22) !important;
+ }
